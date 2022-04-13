@@ -1,0 +1,8 @@
+##Anotações importantes
+
+###git init para inicializar o GIT
+###git commit para comitar alterações, sempre lembrar disso antes de fechar os arquivos
+###git add -m "colocar comentário coerente e objetivo"
+###git status para olhar se está tudo ok
+###git -a listar os arquivos
+
